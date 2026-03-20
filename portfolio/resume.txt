@@ -1,0 +1,45 @@
+JAYANT KALRA
+Software Engineer | AI & Backend Developer
+Bangalore, India
+Email: jayantkalra63@gmail.com | Phone: +91-8901284925
+LinkedIn: https://www.linkedin.com/in/jayantkalra
+
+SUMMARY
+Software Engineer with experience in building conversational AI systems and enterprise-grade backend solutions. Skilled in LLM-based application development, including Retrieval-Augmented Generation (RAG), using tools such as Microsoft Copilot Studio, LangChain, and Python. Strong expertise in API integrations, database systems, and cloud deployments on Azure. Proven ability to optimize workflows, improve system reliability, and deliver scalable AI-driven solutions.
+
+EXPERIENCE
+Associate Software Developer  
+IBM India Pvt. Ltd. | Dec 2023 – Present | Bangalore
+- Developed an enterprise-grade conversational AI solution (AskHR) using Microsoft Copilot Studio integrated with Microsoft Teams.
+- Built and deployed AI agents leveraging generative AI and NLP for structured and conversational interactions.
+- Automated workflows using Power Automate and Azure Functions, improving efficiency.
+- Integrated backend systems using SAP Integration Suite and APIs.
+- Improved response accuracy using knowledge base integrations.
+- Enabled bot-to-human escalation via Genesys.
+- Optimized performance, reduced downtime, and improved system reliability.
+- Led Oracle migration from 11g to 19c.
+- Optimized SQL/PLSQL scripts and improved reporting systems.
+
+EDUCATION
+B.Tech in Computer Science and Engineering  
+Chandigarh Group of Colleges | 2019 – 2023 | CGPA: 8.01
+
+CERTIFICATIONS
+- AWS Certified Cloud Practitioner (CLF-C02)
+- IBM Generative & Agentic AI – Foundation (2025)
+- IBM Delivery Central Platform Foundations (2025)
+- IBM Agile Explorer (2024)
+- Primerli Telecom Industry Badge
+
+SKILLS
+Programming: Python, C  
+Backend: FastAPI, REST APIs  
+AI/ML: LLMs, RAG, LangChain, LangGraph, Ollama  
+Cloud: Azure, AWS (Basics)  
+Databases: Oracle, MongoDB, SQL  
+DevOps: Docker, Kubernetes, Git  
+Systems: Linux, Shell Scripting
+
+Languages
+English
+Hindi
